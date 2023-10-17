@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "7815040699",
+    "project_id": "daqua-cd09b",
+    "storage_bucket": "daqua-cd09b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7815040699:android:ba1240ceecc0cccae4e39e",
+        "android_client_info": {
+          "package_name": "com.example.pythonn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "7815040699-v9t983r1f1r1691c341m8vvanbm61b37.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxg1KTozef5fzqhKr-hbFe-b8tYaw2Tzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "7815040699-v9t983r1f1r1691c341m8vvanbm61b37.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
