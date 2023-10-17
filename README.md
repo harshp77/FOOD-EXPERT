@@ -1,8 +1,7 @@
 # FoodExpert: Portable Intelligent Device for Rapid Screening of Pulse Quality and Adulteration
 
-## Abstract
-
-Pulses are one of the most important food crops in the world due to their higher protein content, approximately 21- 25%. Therefore, it is crucial to analyze the crop’s quality and impurity levels. Stones, pebbles, marble chips, and synthetic dyes such as lead chromate, metanil yellow, artificial colors, etc., are some of the impurities added to pulse products, accidentally or on purpose. The existing analysis techniques are mostly laboratory- based, time-consuming, costly, and require human examination. To address this issue, this paper presents an intelligent system, FoodExpert, based on image processing that automatically uses an image of a pulse sample to identify the region of interest and essential attributes. Then, machine learning frameworks are used to predict pulse quality and adulteration levels based on the obtained parameters. On the test dataset, the suggested model had a 96% accuracy rate for pulse quality prediction and 94% accuracy for adulteration level prediction. The model was successfully deployed on a Raspberry Pi-based hardware prototype and mobile application
+## Short Abstract
+Pulses, rich in protein, are susceptible to impurities. FoodExpert, an image-based system, accurately predicts pulse quality and adulteration, achieving 96% accuracy for quality and 94% for adulteration. It can be deployed on a Raspberry Pi and mobile app.
 
 ## Folder Structure
 
