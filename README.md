@@ -1,11 +1,8 @@
 # FoodExpert: Portable Intelligent Device for Rapid Screening of Pulse Quality and Adulteration
 
-**Author:** Your Name
-**Date:** October 18, 2023
-
 ## Abstract
 
-The "FoodExpert" project focuses on the development of a portable intelligent device for the rapid screening of pulse quality and detection of adulteration. This research paper outlines the dataset, code, and various components used to build the FoodExpert device. The device utilizes image analysis and machine learning techniques to assess both pulse quality and adulteration levels, ensuring the safety and authenticity of pulse products.
+Pulses are one of the most important food crops in the world due to their higher protein content, approximately 21- 25%. Therefore, it is crucial to analyze the crop’s quality and impurity levels. Stones, pebbles, marble chips, and synthetic dyes such as lead chromate, metanil yellow, artificial colors, etc., are some of the impurities added to pulse products, accidentally or on purpose. The existing analysis techniques are mostly laboratory- based, time-consuming, costly, and require human examination. To address this issue, this paper presents an intelligent system, FoodExpert, based on image processing that automatically uses an image of a pulse sample to identify the region of interest and essential attributes. Then, machine learning frameworks are used to predict pulse quality and adulteration levels based on the obtained parameters. On the test dataset, the suggested model had a 96% accuracy rate for pulse quality prediction and 94% accuracy for adulteration level prediction. The model was successfully deployed on a Raspberry Pi-based hardware prototype and mobile application
 
 ## Folder Structure
 
@@ -44,12 +41,4 @@ The "FoodExpert" project focuses on the development of a portable intelligent de
 2. Use the code in folders (2) and (4) for data preprocessing, model training, and testing.
 3. If you have a Raspberry Pi setup, utilize the `rpi.py` script to enable real-time quality assessment on the edge.
 4. For a user-friendly interface, examine and modify the Flutter application in folder (5).
-
-## License
-
-This project is available under the [LICENSE] file in the project's root directory.
-
-## Citation
-
-If you find this research paper or code useful in your work, please cite it as follows:
 
