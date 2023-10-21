@@ -6,6 +6,7 @@ Pulses, rich in protein, are susceptible to impurities. FoodExpert, an image-bas
 ## Folder Structure
 
 - **1. Adulteration Dataset**
+- Note : This repo only contains the sample of the data not complete
     - **1.1 Adulteration Grade 1 Dataset:** Contains images representing pulse samples with Grade 1 adulteration.
     - **1.2 Adulteration Grade 2 Dataset:** Contains images representing pulse samples with Grade 2 adulteration.
     - **1.3 Adulteration Grade 3 Dataset:** Contains images representing pulse samples with Grade 3 adulteration.
@@ -19,6 +20,7 @@ Pulses, rich in protein, are susceptible to impurities. FoodExpert, an image-bas
     - **2.6 Visualize.ipynb:** Jupyter Notebook for visualizing the dataset.
 
 - **3. Grade Quality Dataset**
+- - Note : This repo only contains the sample of the data not complete
     - **3.1 Grade 1 Dataset:** Contains images representing high-quality pulse samples (Grade 1).
     - **3.2 Grade 2 Dataset:** Contains images representing pulse samples with Grade 2 quality.
     - **3.3 Grade 3 Dataset:** Contains images representing pulse samples with Grade 3 quality.
